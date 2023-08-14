@@ -1,0 +1,77 @@
+.first{
+    display: flex;
+    gap: 10px;
+}
+.big-container{
+    width: 33%;
+    height: 200px;
+    background-color: orange;
+    color: white;
+    font-size: 2rem;
+    border-radius: 5px;
+}
+.second{
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+}
+.s-container{
+    width: 25%;
+    height: 75px;
+    background-color: orange;
+    color: white;
+    font-size: 2rem;
+    border-radius: 5px;
+}
+.last{
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+}
+.sm-container{
+    width: 20%;
+    height: 75px;
+    background-color: orange;
+    color: white;
+    font-size: 2rem;
+    border-radius: 5px;
+}
+.fcontainer{
+    display: flex;
+    gap: 10px;
+    padding: 0px 5px;
+}
+.f1{
+    background-color:chocolate;
+    width: 33%;
+    height: 45px;
+    border-radius: 5px;
+    color: black;
+    font-size: 30px;
+}
+.scontainer{
+    display: flex;
+    gap: 10px;
+    padding: 5px 5px;
+}
+.s1{
+    background-color:chocolate;
+    width: 25%;
+    border-radius: 5px;
+    color: black;
+    height: 45px;
+    font-size: 30px;
+}
+.lcontainer{
+    display: flex;
+    gap: 10px;
+    padding: 5px 5px;
+}
+.l1{
+    background-color:chocolate;
+    width: 20%;
+    height: 45px;
+    border-radius: 5px;
+    color: black;
+    font-size: 30px;
+}
